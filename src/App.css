@@ -1,0 +1,26 @@
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+table {
+  width: 100%;
+  margin-top: 20px;
+}
+
+button {
+  margin-left: 10px;
+}
+
+.badge.bg-primary {
+  background-color: #00bcd4; /* Màu xanh cho trạng thái Active */
+}
+
+.badge.bg-danger {
+  background-color: #f44336; /* Màu đỏ nhạt cho trạng thái In-active */
+}
+
+.total-selected {
+  margin-bottom: 20px;
+  font-size: 1.25rem;
+}
